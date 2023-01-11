@@ -1,5 +1,4 @@
 import React from 'react'
-import Books from './Books'
 import "./combined.css"
 
 function Card(props) {
